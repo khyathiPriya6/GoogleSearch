@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 2px;
+}
+
+.suggestion-para {
+  font-family: roboto;
+  color: black;
+}
+
+.arrow-img-style {
+  width: 25px;
+  margin-top: 8px;
+  margin-right: 30px;
+  height: 25px;
+}
